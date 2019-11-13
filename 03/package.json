@@ -1,0 +1,12 @@
+{
+   "scripts": {
+      "test": "jest --colors"
+   },
+   "dependencies": {
+      "@hexlet/pairs": "*",
+      "@hexlet/pairs-data": "*"
+   },
+   "jest": {
+      "testEnvironment": "node"
+   }
+}
